@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  swipeViewController.h
 //  Gestures
 //
 //  Created by Sanjay Shah on 2017-10-12.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SecondViewController : UIViewController
-
+@interface swipeViewController : UIViewController
 
 @end
-

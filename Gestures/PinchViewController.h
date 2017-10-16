@@ -1,5 +1,5 @@
 //
-//  FirstViewController.h
+//  PinchViewController.h
 //  Gestures
 //
 //  Created by Sanjay Shah on 2017-10-12.
@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : UIViewController
+@interface PinchViewController : UIViewController
 
 
 @end
-
